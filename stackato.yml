@@ -1,0 +1,5 @@
+name: bcferrycoder
+mem: 128M
+framework: buildpack
+env:
+  BUILDPACK_URL: ssh://git@199.30.89.190/home/git/activate/bcferrycoder.git
