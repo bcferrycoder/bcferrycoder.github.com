@@ -37,8 +37,6 @@ layout: default
 <br />
     <h4>Recents</h4>
 
-
-
 <ul style="margin-left:0px;list-style:none;" class="posts">
   {% for post in site.posts %}
     <li><span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>&nbsp;{{ post.date | date_to_string }}</span></li>
