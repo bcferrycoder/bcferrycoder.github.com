@@ -2,39 +2,21 @@
 layout: default
 ---
 <div class="page-header">
-  <img style="width:300px;height:50px;" src="/assets/images/bcferrycoder.png">
-  <img style="width:300px;height:50px;" src="/assets/images/bcferrycoder.png">
-  <img style="width:300px;height:50px;" src="/assets/images/bcferrycoder.png">
+
   <h1>{{ page.title }} <small>PaaS on the Road</small></h1>
 </div>
 
 <div class="row">
   <div class="span8">
+
     {{ content }}
+
     <hr>
-    <div class="pagination">
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
-      {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-      {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
-      {% endif %}
-      </ul>
-    </div>
     <hr>
     {% include JB/comments %}
   </div>
   
   <div class="span4">
-    <h4>Published</h4>
-    <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
-<br />
     <h4>Recents</h4>
 
 <ul style="margin-left:0px;list-style:none;" class="posts">
