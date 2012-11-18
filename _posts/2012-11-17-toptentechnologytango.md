@@ -24,7 +24,7 @@ permanent spot at the top.
 #### 2. Opa
 
 Opa is the future of web development. I 
-[just wrote](http://blog.bcferrycoder.com) about it in fact.
+[just wrote](https://blog.bcferrycoder.com/2012/11/17/i-have-seen-the-future/) about it in fact.
 
 #### 3. Intellij Idea
 
@@ -36,6 +36,9 @@ IDE.
 	     
 
 #### 4. MTS Macros
+
+<img src="http://mtswiki.westwood-tech.com/3270-12p.png">
+
 
 #### 5. Ruby on Rails
 
