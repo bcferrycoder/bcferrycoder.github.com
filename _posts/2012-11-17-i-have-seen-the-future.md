@@ -27,3 +27,8 @@ Check out what it brings to the table:
 1.  node
 1.  common language
 
+<pre>
+<code class="java">
+ content = &lt;div id="theatre"&gt;&lt;video src="http://blogs.bcferrycoder.com/opa.mp3"&gt;
+</code>
+</pre>
