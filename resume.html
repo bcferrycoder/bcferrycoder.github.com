@@ -1,0 +1,24 @@
+---
+layout: page
+title: John Wetherill's Resume
+header: Posts By Category
+group: navigation
+---
+{% include JB/setup %}
+
+<h3>John Wetherill's resume in <a href="resumes/JohnWetherillResume.html">html</a>
+<a href="resumes/JohnWetherillResume.pdf">pdf</a>
+  <a href="resumes/space.html">space</a>
+</h3>
+
+<h3>Select Software Projects in <a href="resumes/SoftwarePortfolio.pdf">pdf</a></h3>
+
+
+{% for category in site.categories %} 
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+  <ul>
+    {% assign pages_list = category[1] %}  
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
+

@@ -10,4 +10,4 @@ tagline: The Foundation for Innovation
 </div>
 
 
-<iframe id="preso" src="http://jdw:80/dockerdeck/hi.html" width="1100" height="1300">iframe</iframe>
+<iframe id="preso" src="http://jdw:80/dockerdeck/hi.html" width="600" height="480">iframe</iframe>
