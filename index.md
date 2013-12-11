@@ -5,7 +5,8 @@ tagline: The Foundation for Innovation
 ---
 
 Welcome to John Wetherill's resume, provided as a dockerfile which I
-built during a recent flight from Canada.
+built during a recent flight from Canada. Click the tabs above for 
+content.
 
 
 Here's the Dockerfile
