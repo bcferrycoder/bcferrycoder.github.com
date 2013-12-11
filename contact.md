@@ -6,11 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
-twitter: @bcferrycoder
+twitter: [@bcferrycoder](https://twitter.com/bcferrycoder)
 
-github: https://github.com/bcferrycoder
+github: <https://github.com/bcferrycoder>
 
-email: john wetherill@gmail.com
+email: <john.wetherill@gmail.com>
 
 cell: 408-348-8952
 
