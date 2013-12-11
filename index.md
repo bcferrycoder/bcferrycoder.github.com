@@ -14,7 +14,8 @@ Here's the Dockerfile
     # My resume as a Dockerfile
     
     # docker build -t="jdw/docket" .
-    # docker run -d jdw/docket
+    # docker run -p 3000:3000 -d jdw/docket
+    # now visit at http://host:3000/
 
     FROM ubuntu:12.10
     MAINTAINER John Wetherill, jdw@bcferrycoder.com

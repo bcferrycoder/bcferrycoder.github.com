@@ -1,8 +1,6 @@
 ---
 layout: page
-title: References and Recommendations
-header: Posts By Category
-group: navigation
+title: Resume
 ---
 {% include JB/setup %}
 
