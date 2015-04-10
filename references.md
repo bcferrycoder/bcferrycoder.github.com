@@ -8,30 +8,6 @@ group: navigation
 
 ### References
 
-**Kevin Western**, Software Engineer, Google  
-  <kevinwestern@gmail.com>  
-  903-530-6185
-
-**Randy Bias**, CTO, Cloud Scaling  
-  <randybias@gmail.com>  
-
-**Martin Stein**, Engineering Manager at Guidewire Software  
-  <steinmh@gmail.com>  
-
-**Paul Stanton**, Director Business Development, ActiveState  
-  <paul_e_stanton@hotmail.com>  
-  949 521.4981
-
-**Chris Pasillas**, Software Engineer, Google  
-  <chris.pasillas@gmail.com>  
-  805-286-7230
-
-**Dale Yoakum**, Director of Events, Sun Microsystems  
-  <dale.yoakum@gmail.com>  
-  853-345-3450
-
-**Wiliam Gautier**, Software Engineer, ActiveState  
-  <wgautier@gmail.com>  
 
 ### Recommendations
 
